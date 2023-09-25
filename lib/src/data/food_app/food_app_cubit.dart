@@ -1,6 +1,5 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-import 'package:food_app/src/data/models/food_app.dart';
 import 'package:food_app/src/domain/services/food_service.dart';
 
 import '../models/models.dart';
